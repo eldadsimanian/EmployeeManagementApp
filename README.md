@@ -55,4 +55,18 @@ Press `F5` or click **Start**
 🎉 Enjoy Managing Employees!
 
 
+## 📚 Requirements
+- Windows OS 🪟  
+- .NET 8 SDK installed  
+- Visual Studio 2022 (or newer) with **Windows Forms** workload  
+
+---
+
+## 🌟 Highlights for Recruiters
+- **Object-Oriented Design** — Demonstrates inheritance, abstraction, and polymorphism.  
+- **Custom JSON Converter** — Real-world example of advanced serialization.  
+- **Windows Forms UI Development** — User-friendly desktop app.  
+- **Clean and Readable Code** — Follows C# coding best practices.  
+
+
 
