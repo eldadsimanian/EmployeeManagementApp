@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\executive .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:executive .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|c:\\users\\eldad\\desktop\\oop\\employeemanagementapp\\employeeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E065AC7E-F86D-4474-8569-BE990A78E674}|EmployeeManagementApp.csproj|solutionrelative:employeeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:43:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:29:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:43:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:43:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:31:53.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAApwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:32:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Executive .cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Executive .cs",
+              "RelativeDocumentMoniker": "Executive .cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Executive .cs",
+              "RelativeToolTip": "Executive .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:44:06.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\SalariedEmployee.cs",
+              "RelativeToolTip": "SalariedEmployee.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:48:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:29:43.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\EmployeeConverter.cs",
+              "RelativeDocumentMoniker": "EmployeeConverter.cs",
+              "ToolTip": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\EmployeeConverter.cs",
+              "RelativeToolTip": "EmployeeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:06:02.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

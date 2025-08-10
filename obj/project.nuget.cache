@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TridYYZ+jqo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eldad\\Desktop\\OOP\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eldad\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.203\\microsoft.net.sdk.compilers.toolset.9.0.203.nupkg.sha512"
+  ],
+  "logs": []
+}
