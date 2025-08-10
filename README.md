@@ -41,8 +41,8 @@ EmployeeManagementApp/
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/YourUsername/EmployeeManagementApp.git
+
 ### 2️⃣ Open in Visual Studio
 Double-click `EmployeeManagementApp.sln`
 
