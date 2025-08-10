@@ -18,15 +18,41 @@ It supports **different employee types** (Salaried, Hourly, Manager, Executive),
 ## 🛠 Project Structure
 EmployeeManagementApp/
 │── Employee.cs              # Base class for all employees
+
 │── SalariedEmployee.cs      # Employee with fixed salary
+
 │── HourlyEmployee.cs        # Employee paid by the hour
+
 │── Manager.cs               # Manager with bonuses
+
 │── Executive .cs            # Executive-level employee logic
+
 │── EmployeeConverter.cs     # JSON serialization/deserialization logic
+
 │── Form1.cs                 # Main UI logic
+
 │── Program.cs               # App entry point
+
 │── employees.json           # Stored employee data
+
 │── EmployeeManagementApp.sln # Solution file
+
+
+## 🚀 How to Run
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YourUsername/EmployeeManagementApp.git
+### 2️⃣ Open in Visual Studio
+Double-click `EmployeeManagementApp.sln`
+
+### 3️⃣ Build the Project
+Press `Ctrl + Shift + B`
+
+### 4️⃣ Run the App
+Press `F5` or click **Start**
+
+🎉 Enjoy Managing Employees!
 
 
 
